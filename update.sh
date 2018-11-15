@@ -11,3 +11,7 @@ npm run build
 
 # Restart pm2 processes
 pm2 restart all
+
+# At last, update yourself
+cd ~/oehu-update
+git pull
